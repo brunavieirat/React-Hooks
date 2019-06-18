@@ -1,0 +1,7 @@
+.table {
+    text-align: justify;
+}
+
+tr {
+    display: flex;
+}

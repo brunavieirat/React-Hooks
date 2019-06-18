@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:500');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rajdhani', sans-serif;  
+}
+
+.app {
+  padding: 5%;
+}
